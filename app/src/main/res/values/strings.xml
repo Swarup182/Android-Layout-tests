@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestApplication1</string>
+    <string name="item_first">Item first</string>
+    <string name="item_second">Item second</string>
+    <string name="item_third">Item third</string>
+    <string name="item_fourth">Item fourth</string>
+    <string name="item_fifth">Item fifth</string>
+    <string name="textview_first">TextView first</string>
+    <string name="textview_second">TextView second</string>
+    <string name="textview_third">TextView third</string>
+    <string name="select_item_from_top">Select Item From top</string>
+    <string name="red_button">Red button</string>
+    <string name="blue_button">Blue button</string>
+    <string name="green_button">Green button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
